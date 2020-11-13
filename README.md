@@ -22,7 +22,6 @@ The original standard excerpt from Lorem Ipsum, used since the 16th century, is 
 Where can I get it?
 There are many variations of Lorem Ipsum passages available, but most have undergone some kind of alteration, either by inserting passages with humor, or random words that don't seem the least bit convincing. If you intend to use a passage from Lorem Ipsum, you need to make sure that there is nothing embarrassing written hidden in the middle of the text. All Lorem Ipsum generators on the internet tend to repeat predefined pieces as needed, making this the first authentic Lorem Ipsum generator on the internet. He uses a dictionary with more than 200 Latin words combined with a handful of sentence structure templates to generate a reasonably-looking Lorem Ipsum, free of repetition, humor insertions, non-characteristic words, etc.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luizmelo01/)
@@ -30,7 +29,7 @@ There are many variations of Lorem Ipsum passages available, but most have under
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados no site ffulano de tal:
 
 * **Criar Tela de login do Instagram:** 
 * **Criar site igual da netflix**
