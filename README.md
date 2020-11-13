@@ -30,7 +30,7 @@ There are many variations of Lorem Ipsum passages available, but most have under
 Veja os tutoriais publicados no site ffulano de tal:
 
 * **Criar Tela de login do Instagram:** 
-* **Criar site igual da netflix**
+* **Recriar a interface da netflix**
 
 ---
 
