@@ -5,30 +5,35 @@
 </p>
 
 # Luiz Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>* Futurro_Developer* </sub> Apprentice Digital Innovation On 
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+O que é lorem ipsum?
+Lorem Ipsum is simply a text simulation of the printing and printing industry, and has been in use since the 16th century, when an unknown printer took a type tray and shuffled them to make a type model book. Lorem Ipsum has survived not only five centuries, but also the leap to desktop publishing, remaining essentially unchanged. It became popular in the 60s, when Letraset launched decals containing passages from Lorem Ipsum, and more recently when it started to be integrated with desktop publishing software such as Aldus PageMaker.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Why do we use it?
+It is a well-known fact that a reader will be distracted by the readable text content of a page when examining its layout. The advantage of using Lorem Ipsum is that it has a normal distribution of letters, as opposed to "Content here, content here", making it look similar to readable text. Many publishing software and web page editors now use Lorem Ipsum as standard template text, and a quick search for 'lorem ipsum' shows several websites still in their construction phase. Several new versions have appeared over the years, eventually by accident, and sometimes on purpose (injecting humor, and the like).
+
+
+Where does he come from?
+Contrary to popular belief, Lorem Ipsum is not simply a random text. More than 2000 years old, its roots can be found in a work of classical Latin literature dating from 45 BC. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, researched one of the most obscure Latin words, consectetur, from a passage by Lorem Ipsum, and, searching through quotes from the word in classical literature, discovered his undoubted one. source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of Cicero's "Finibus Bonorum et Malorum" (The Extremes of Good and Evil), written in 45 BC. This book is a treatise on the theory of ethics very popular in the Renaissance. Lorem Ipsum's first line, "Lorem Ipsum dolor sit amet ..." comes from a line in section 1.10.32.
+
+The original standard excerpt from Lorem Ipsum, used since the 16th century, is reproduced below for those interested. Sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" by Cicero were also reproduced below in their exact original form, accompanied by the English versions of the translation by H. Rackham in 1914.
+
+Where can I get it?
+There are many variations of Lorem Ipsum passages available, but most have undergone some kind of alteration, either by inserting passages with humor, or random words that don't seem the least bit convincing. If you intend to use a passage from Lorem Ipsum, you need to make sure that there is nothing embarrassing written hidden in the middle of the text. All Lorem Ipsum generators on the internet tend to repeat predefined pieces as needed, making this the first authentic Lorem Ipsum generator on the internet. He uses a dictionary with more than 200 Latin words combined with a handful of sentence structure templates to generate a reasonably-looking Lorem Ipsum, free of repetition, humor insertions, non-characteristic words, etc.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/luizmelo01/)
+
 
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Criar Tela de login do Instagram:** 
+* **Criar site igual da netflix**
 
 ---
 
