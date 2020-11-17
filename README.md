@@ -23,7 +23,6 @@ There are many variations of Lorem Ipsum passages available, but most have under
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luizmelo01/)
-*<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 
 
