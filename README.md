@@ -2,24 +2,24 @@
   <img src="banner.png" >
 </p>
 
-# Luiz Melo PORTIFOLIO EM DESENVOLVIMENTO
+# LUIZ MELO
 <sub>* Futurro_Developer* </sub> Apprentice Digital Innovation On 
 
-O que é lorem ipsum?
-Lorem Ipsum is simply a text simulation of the printing and printing industry, and has been in use since the 16th century, when an unknown printer took a type tray and shuffled them to make a type model book. Lorem Ipsum has survived not only five centuries, but also the leap to desktop publishing, remaining essentially unchanged. It became popular in the 60s, when Letraset launched decals containing passages from Lorem Ipsum, and more recently when it started to be integrated with desktop publishing software such as Aldus PageMaker.
+I'm Luiz Melo, and I am a passionate student in various fields, including translation, graphic design, editing, and programming. Although I am a beginner, I have a strong desire to learn and grow in these fields. I am always seeking new opportunities to acquire more skills and practical experience.
 
-Why do we use it?
-It is a well-known fact that a reader will be distracted by the readable text content of a page when examining its layout. The advantage of using Lorem Ipsum is that it has a normal distribution of letters, as opposed to "Content here, content here", making it look similar to readable text. Many publishing software and web page editors now use Lorem Ipsum as standard template text, and a quick search for 'lorem ipsum' shows several websites still in their construction phase. Several new versions have appeared over the years, eventually by accident, and sometimes on purpose (injecting humor, and the like).
+Skills:
 
+Translation: Fluency in English and [another language], with the ability to translate simple texts with accuracy.
+Graphic Design: Basic knowledge of tools such as Adobe Photoshop and Illustrator, with the ability to create simple and attractive designs.
+Editing: Basic knowledge of video and audio editing, with the ability to make small adjustments and improvements.
+Programming: Basic knowledge of HTML, CSS, JavaScript and [another programming language], with the ability to develop small projects.
+Portfolio: I provide some examples of my previous work and I am willing to learn and grow with the opportunities offered.
 
-Where does he come from?
-Contrary to popular belief, Lorem Ipsum is not simply a random text. More than 2000 years old, its roots can be found in a work of classical Latin literature dating from 45 BC. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, researched one of the most obscure Latin words, consectetur, from a passage by Lorem Ipsum, and, searching through quotes from the word in classical literature, discovered his undoubted one. source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of Cicero's "Finibus Bonorum et Malorum" (The Extremes of Good and Evil), written in 45 BC. This book is a treatise on the theory of ethics very popular in the Renaissance. Lorem Ipsum's first line, "Lorem Ipsum dolor sit amet ..." comes from a line in section 1.10.32.
+Availability: I am available to work on part-time or volunteer projects, according to the client's needs. I have a flexible schedule and am always eager to learn and grow.
 
-The original standard excerpt from Lorem Ipsum, used since the 16th century, is reproduced below for those interested. Sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" by Cicero were also reproduced below in their exact original form, accompanied by the English versions of the translation by H. Rackham in 1914.
+Price: As a beginner, I am willing to accept lower prices to acquire more experience and skills. I always guarantee a dedicated and enthusiastic work.
 
-Where can I get it?
-There are many variations of Lorem Ipsum passages available, but most have undergone some kind of alteration, either by inserting passages with humor, or random words that don't seem the least bit convincing. If you intend to use a passage from Lorem Ipsum, you need to make sure that there is nothing embarrassing written hidden in the middle of the text. All Lorem Ipsum generators on the internet tend to repeat predefined pieces as needed, making this the first authentic Lorem Ipsum generator on the internet. He uses a dictionary with more than 200 Latin words combined with a handful of sentence structure templates to generate a reasonably-looking Lorem Ipsum, free of repetition, humor insertions, non-characteristic words, etc.
-
+Thank you for the opportunity to introduce myself and I am excited for the chance to work with you. If you have any questions or would like to know more about my skills, feel free to contact me. Thank you!
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luizmelo01/)
