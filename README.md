@@ -3,7 +3,6 @@
 </p>
 
 # LUIZ MELO
-<sub>* Futurro_Developer* </sub> Apprentice Digital Innovation On 
 
 I'm Luiz Melo, and I am a passionate student in various fields, including translation, graphic design, editing, and programming. Although I am a beginner, I have a strong desire to learn and grow in these fields. I am always seeking new opportunities to acquire more skills and practical experience.
 
